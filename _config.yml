@@ -21,7 +21,7 @@ repository               : "alanluner/alanluner.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profilePhoto2.png"
+  avatar           : "profilePhoto1.png"
   name             : "Alan Luner"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Applied Mathematics and Statistics"
