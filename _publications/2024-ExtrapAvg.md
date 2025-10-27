@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/ExtrapAvgGD
 excerpt: 'This work considers the effect of averaging and extrapolation of the iterates of gradient descent in smooth convex optimization. We show that for several common stepsize sequences, averaging cannot improve gradient descent''s worst-case performance. In contrast, we prove a conceptually simple and computationally cheap extrapolation scheme strictly improves the worst-case convergence rate: when initialized at the origin, reporting \\((1+1/\sqrt{16N\log(N)})x_N\\) rather than \\(x_N\\) improves the best possible worst-case performance by the same amount as conducting \\(O(\sqrt{N/\log(N)})\\) more gradient steps.'
 date: 2024-02-26
-venue: 'ArXiv Preprint'
+venue: 'Mathematics of Operations Research'
 paperurl: 'https://arxiv.org/abs/2402.12493'
 citation: 'Alan Luner, Benjamin Grimmer. (2024). &quot;On Averaging and Extrapolation for Gradient Descent.&quot; <i>ArXiv Preprint 2402.12493</i>.'
 ---
