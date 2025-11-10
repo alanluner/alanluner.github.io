@@ -3,7 +3,7 @@ title: "A Practical Adaptive Subgame Perfect Gradient Method"
 collection: publications
 category: conferences
 permalink: /publication/ASPGM
-excerpt: 'This works presents a new algorithm for smooth convex optimization, the Adaptive Subgame Perfect Gradient Method (ASPGM). At each iteration, ASPGM makes a momentum-type update, optimized dynamically based on a (limited) memory/bundle of past first-order information. ASPGM is linesearch-free, parameter-free, and adaptive, and the core algorithm underlying ASPGM has strong, subgame perfect, non-asymptotic guarantees, providing certificates of solution quality, resulting in simple stopping criteria and restarting conditions.'
+excerpt: 'This work presents a new algorithm for smooth convex optimization, the Adaptive Subgame Perfect Gradient Method (ASPGM). At each iteration, ASPGM makes a momentum-type update, optimized dynamically based on a (limited) memory/bundle of past first-order information. ASPGM is linesearch-free, parameter-free, and adaptive, and the core algorithm underlying ASPGM has strong, subgame perfect, non-asymptotic guarantees, providing certificates of solution quality, resulting in simple stopping criteria and restarting conditions.'
 date: 2025-10-26
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2510.21617'
